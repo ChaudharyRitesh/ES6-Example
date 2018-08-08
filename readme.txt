@@ -1,0 +1,1 @@
+this is a simple javascript ES6 demo code for adding books and viewing them in a table. Local and Session storage are used to store the values.
